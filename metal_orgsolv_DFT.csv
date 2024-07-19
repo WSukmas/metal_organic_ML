@@ -1,0 +1,990 @@
+name,chem_formula,SMILES,BE(eV),metal_ion
+"N,N-Dimethylformamide (DMF)",C3H7NO,CN(C)C=O,2.65,Zn
+Formamide,CH3NO,NC=O,3.84,Zn
+"N,N-Dimethylacetamide (DMA)",C4H9NO,CC(=O)N(C)C,2.46,Zn
+N-Methylacetamide (NMA),C3H7NO,CNC(C)=O,3.04,Zn
+Acetamide,C2H5NO,CC(N)=O,3.72,Zn
+Thioacetamide,2H5NS,CC(N)=S,2.29,Zn
+Isobutyramide,C4H9NO,CC(C)C(N)=O,3.67,Zn
+Butyramide,C4H9NO,CCCC(N)=O,3.63,Zn
+Urea,CH4N2O,NC(N)=O,3.22,Zn
+Propionamide,C3H7NO,CCC(N)=O,3.21,Zn
+Dimethylcarbamyl fluoride,C3H6FNO,CN(C)C(=O)F,3.1,Zn
+2-Fluoro-N-methylacetamide,C3H6FNO,CNC(=O)CF,3.14,Zn
+N-Fluoromethyl-N-methylformamide,C3H6FNO,CN(C)C(=O)N(C)F,3.18,Zn
+N-Ethylformamide,C3H7NO,CCNC=O,3.08,Zn
+Cyanoformamide,C2H2N2O,N#CC(N)=O,4.49,Zn
+Formylhydrazine,CH4N2O,NNC=O,1.91,Zn
+n-Cyanoformamide,C2H2N2O,N#CNC=O,4.2,Zn
+Methyl carbamate,C2H5NO2,COC(N)=O,3.7,Zn
+Carbamic acid fluoride,CH2FNO,NC(=O)O,4.47,Zn
+N-Methylformamide,C2H5NO,CNC=O,3.11,Zn
+3-Fluoropropanamide,C3H6FNO,NC(=O)CCF,3.42,Zn
+"2-Fluoro-N,N-dimethylacetamide",C4H8FNO,NCCC(F)C=O,2.65,Zn
+Methylaminoformyl chloride,C2H4ClNO,CNC(=O)Cl,3.65,Zn
+Carbamoyl chloride,CH2ClNO,NC(=O)Cl,4.39,Zn
+Fluoroacetamide,C2H4FNO,NC(=O)CF,3.96,Zn
+N-(chloromethyl)carboxamide,C2H4ClNO,O=CNCCl,3.65,Zn
+N-Chloroacetamide,C2H4ClNO,CC(=O)NCl,3.39,Zn
+2-Chloroacetamide,C2H4ClNO,NC(=O)CCl,3.61,Zn
+N-Methoxyformamide,C2H5NO2,CONC=O,2.63,Zn
+Trifluoroacetamide,C2H2F3NO,NC(=O)C(F)(F)F,4.4,Zn
+Carbamic acid,CH3NO2,NC(=O)O,3.97,Zn
+"N,N-Diethylacetamide (DEA)",C6H13NO,CCN(CC)C(C)=O,2.45,Zn
+"N,N-Dimethylpropionamide",C5H11NO,CCC(=O)N(C)C,2.45,Zn
+"N,N-Dimethylbenzamide",C9H11NO,CN(C)C(=O)c1ccccc1,2.26,Zn
+"N,N-Dimethylbutyramide",C6H13NO,CCCC(=O)N(C)C,2.38,Zn
+2-Methoxyacetamide,C3H7NO2,COCC(N)=O,3.52,Zn
+"2,2,2-Trifluoro-N,N-dimethylacetamide",C4H6F3NO,CN(C)C(=O)C(F)(F)F,3.21,Zn
+Acetonitrile (AN),C2H3N,CC#N,5.24,Zn
+Propionitrile,C3H5N,CCC#N,4.86,Zn
+Butyronitrile,C4H7N,CCCC#N,5.62,Zn
+Valeronitrile,C5H9N,CCCCC#N,4.29,Zn
+Phenylacetonitrile,C8H7N,N#CCc1ccccc1,2.9,Zn
+2-Methoxypropanenitrile,C4H7NO,COC(C)C#N,3.65,Zn
+3-Oxopropanenitrile,C3H3NO,N#CCC=O,3.99,Zn
+3-Oxobutanenitrile,C4H5NO,CC(=O)CC#N,3.74,Zn
+Ethyl cyanoacetate (ECA),C5H7NO2,CCOC(=O)CC#N,4.28,Zn
+Fluoroacetonitrile,C2H2FN,N#CCF,5.5,Zn
+Aminoacetonitrile,C2H4N2,N#CCN,2.67,Zn
+Malononitrile,C3H2N2,N#CCC#N,5.47,Zn
+Methoxyacetonitrile,C3H5NO,COCC#N,3.7,Zn
+3-Methoxypropionitrile,C4H7NO,COCCC#N,3.45,Zn
+Glutaronitrile (GN),C5H6N2,N#CCCCC#N,4.62,Zn
+Adiponitrile (ADN),C6H8N2,N#CCCCCC#N,4.64,Zn
+Heptanedinitrile,C7H10N2,N#CCCCCCC#N,7.22,Zn
+Octanedinitrile,C8H12N2,N#CCCCCCCC#N,7.35,Zn
+Azelanitrile,C9H14N2,N#CCCCCCCCC#N,7.05,Zn
+Sebaconitrile,C10H16N2,N#CCCCCCCCCC#N,6.47,Zn
+Glycolonitrile,C2H3NO,N#CCO,4.48,Zn
+Chloroacetonitrile,C2H2ClN,N#CCCl,5.03,Zn
+"3,3,3-Trifluoropropionitrile",C3H2F3N,N#CCC(F)(F)F,5.83,Zn
+Cyanoacetic acid,C3H3NO2,N#CCC(=O)O,4.66,Zn
+2-Methylglutaronitrile,C6H8N2,CC(C#N)CCC#N,4.7,Zn
+Trimethylacetonitrile,C5H9N,CC(C)(C)C#N,4.3,Zn
+"2,2-Dimethylbutanenitrile",C6H11N,CCC(C)(C)C#N,3.81,Zn
+"1,2-Dimethoxyethane (DME)",C4H10O2,COCCOC,2.65,Zn
+tetrahydrofurane (THF),C4H8O,C1CCOC1,2.92,Zn
+2-Methyltetrahydrofuran,C5H10O,CC1CCCO1,2.84,Zn
+Anisole,C7H8O,COc1ccccc1,2.2,Zn
+"1,3-Dioxolane",C3H6O2,C1COCO1,3.08,Zn
+Ethyl Acetate (EA),C4H8O2,CCOC(C)=O,3.85,Zn
+Ethyl fluoroacetate (EFA),C4H7FO2,CCOC(=O)CF,4.17,Zn
+Ethyl difluoroacetate,C4H6F2O2,CCOC(=O)C(F)F,2.25,Zn
+Methyl acetate (MA),C3H6O2,COC(C)=O,3.98,Zn
+Methyl methoxyacetate,C4H8O3,COCC(=O)OC,3.27,Zn
+Methyl cyanoacetate,C4H5NO2,COC(=O)CC#N,4.38,Zn
+1-Methoxy-2-propyl acetate,C6H12O3,COCC(C)OC(C)=O,3.02,Zn
+2-Fluoroethyl acetate,C4H7FO2,CC(=O)OCCF,4.09,Zn
+Ethyl 2-Fluoropropionate,C5H9FO2,CCOC(=O)C(C)F,3.93,Zn
+Methyl butyrate (MB),C5H10O2,CCCC(=O)OC,3.74,Zn
+Ethyl butyrate (EB),C6H12O2,CCCC(=O)OCC,3.65,Zn
+gamma-Butyrolactone (GBL),C4H6O2,O=C1CCCO1,3.84,Zn
+3-fluorodihydrofuran-2(3H)-one,C4H5FO2,O=C1OCCC1F,3.95,Zn
+Delta-Valerolactone (DVL),C5H8O2,O=C1CCCCO1,3.62,Zn
+Dimethoxymethane (DMM),C3H8O2,COCOC,3.12,Zn
+1-Ethoxy-2-methoxyethane (EME),C5H12O2,CCOCCOC,2.64,Zn
+1-(2-Fluoroethoxy)-2-methoxyethane,C5H11FO2,COCCOCCF,2.79,Zn
+"1-(2,2-Difluoroethoxy)-2-methoxyethane",C5H10F2O2,COCCOCC(F)F,2.91,Zn
+"1-(2,2,2-Trifluoroethoxy)-2-methoxyethane",C5H9F3O2,COCCOCC(F)(F)F,3.04,Zn
+"1,2-Diethoxyethane (DEE)",C6H14O2,CCOCCOCC,2.59,Zn
+"1-(2,2-Difluoroethoxy)-2-ethoxyethane",C6H12F2O2,CCOCCOCC(F)F,2.9,Zn
+"1-(2,2,2-Trifluoroethoxy)-2-ethoxyethane",C6H11F3O2,CCOCCOCC(F)(F)F,3.01,Zn
+"4-Methyl-1,3-dioxolane",C4H8O2,CC1COCO1,3.01,Zn
+"2-Methyl-1,3-dioxolane",C4H8O2,CC1OCCO1,3.07,Zn
+Diglyme (G2),C6H14O3,COCCOCCOC,2.64,Zn
+Methyl 3-cyanopropanoate,C5H7NO2,COC(=O)CCC#N,4.11,Zn
+Methyl 2-cyano-2-methylpropanoate,C6H9NO2,COC(=O)C(C)(C)C#N,4.08,Zn
+Ethyl 2-cyano-2-methylpropanoate,C7H11NO2,CCOC(=O)C(C)(C)C#N,3.92,Zn
+Diethyl Ether,C4H10O,CCOCC,3.09,Zn
+Diisopropyl ether,C6H14O,CC(C)OC(C)C,2.84,Zn
+Cyclopentyl methyl ether,C6H12O,COC1CCCC1,2.79,Zn
+Tetrahydropyran,C5H10O,C1CCOCC1,2.82,Zn
+Triglyme,C8H18O4,COCCOCCOCCOC,2.93,Zn
+Methyl 2-(fluorosulfonyl)acetate,C3H5FO4S,COC(=O)CS(=O)(=O)F,4.68,Zn
+Nitroethane (NE),C2H5NO2,CC[N+](=O)[O-],4.12,Zn
+Propyl acetate,C5H10O2,CCCOC(C)=O,3.87,Zn
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,3.78,Zn
+Butyl acetate,C6H12O2,CCCCOC(C)=O,3.78,Zn
+Isobutyl acetate,C6H12O2,CC(=O)OCC(C)C,3.82,Zn
+Methyl propionate,C4H8O2,CCC(=O)OC,3.89,Zn
+Methyl formate,C2H4O2,COC=O,4.37,Zn
+Ethyl formate,C3H6O2,CCOC=O,4.23,Zn
+Propyl formate,C4H8O2,CCCOC=O,4.16,Zn
+Isopropyl formate,C4H8O2,CC(C)OC=O,4.06,Zn
+Butyl formate,C5H10O2,CCCCOC=O,4,Zn
+Isobutyl formate,C5H10O2,CC(C)COC=O,4.05,Zn
+Methyl 3-fluoropropanoate,C4H7FO2,COC(=O)CCF,4.01,Zn
+Fluoromethyl propanoate,C4H7FO2,CCC(=O)OCF,4.12,Zn
+"Methyl 3,3-difluoropropanoate",C4H6F2O2,COC(=O)CC(F)F,4.27,Zn
+"Methyl 3,3,3-trifluoropropionate",C4H5F3O2,COC(=O)CC(F)(F)F,4.47,Zn
+"Ethyl 3,3,3-trifluoropropanoate",C5H7F3O2,CCOC(=O)CC(F)(F)F,4.32,Zn
+Flurothyl,C4H4F6O,FC(F)(F)COCC(F)(F)F,4.52,Zn
+"Pentafluoroethyl 2,2,2-trifluoroethyl ether",C4H2F8O,FC(F)(F)COC(F)(F)C(F)(F)F,5.52,Zn
+"1,1,2,2-Tetrafluoro-3-(1,1,2,2-tetrafluoroethoxy)propane",C5H4F8O,FC(F)C(F)(F)COC(F)(F)C(F)F,5.03,Zn
+"Ethyl 1,1,2,2-tetrafluoroethyl ether",C4H6F4O,CCOC(F)(F)C(F)F,4.64,Zn
+"1,1,2,2-Tetrafluoroethyl 2,2,2-trifluoroethyl ether",C4H3F7O,FC(F)C(F)(F)OCC(F)(F)F,5.06,Zn
+Methoxy(methoxymethoxy)methane,C4H10O3,COCOCOC,3.05,Zn
+Aminomethylal,C3H9NO2,COCOCN,2.26,Zn
+Fluoro(dimethoxy)methane,C3H7FO2,COC(F)OC,3.79,Zn
+Fluoromethoxy(methoxy)methane,C3H7FO2,COCOCF,3.46,Zn
+Difluoro(dimethoxy)methane,C3H6F2O2,COC(F)(F)OC,4.3,Zn
+Difluoro(methoxymethoxy)methane,C3H6F2O2,COCOC(F)F,3.57,Zn
+Trifluoro(methoxymethoxy)methane,C3H5F3O2,COCOC(F)(F)F,3.77,Zn
+"1-(2,2,2-Trifluoroethoxy)-2-methoxyethane",C5H9F3O2,COCCOCC(F)(F)F,3.04,Zn
+Phenetole,C8H10O,CCOc1ccccc1,2.16,Zn
+Propoxybenzene,C9H12O,CCCOc1ccccc1,2.16,Zn
+Butyl phenyl ether,C10H14O,CCCCOc1ccccc1,2.15,Zn
+Methyl tert-butyl ether,C5H12O,COC(C)(C)C,2.92,Zn
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,2.3,Zn
+Dioxane,C4H8O2,C1COCCO1,2.34,Zn
+"2-Methyl-1,4-dioxane",C5H10O2,CC1COCCO1,2.28,Zn
+"5-Fluoro-1,3-dioxane",C4H7FO2,FC1COCOC1,3.19,Zn
+"5,5-Difluoro-1,3-dioxane",C4H6F2O2,FC1(F)COCOC1,3.55,Zn
+"4,4-Difluoro-1,3-dioxane",C4H6F2O2,FC1(F)CCOCO1,3.63,Zn
+"2-Methoxy-1,3-dioxane",C5H10O3,COC1OCCCO1,3.21,Zn
+"5-Methoxy-1,3-dioxane",C5H10O3,COC1COCOC1,2.63,Zn
+"N,N-Dimethyl-1,3-dioxan-2-amine",C6H13NO2,CN(C)C1OCCCO1,2.59,Zn
+Ethyl propionate,C5H10O2,CCOC(=O)CC,3.72,Zn
+Methoxymethyl acetate,C4H8O3,COCOC(C)=O,3.39,Zn
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,3.01,Zn
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,3.71,Zn
+Vinyl acetate,C4H6O2,C=COC(C)=O,2.84,Zn
+Methyl glycinate,C3H7NO2,COC(=O)CN,2.33,Zn
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,3.71,Zn
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,3.43,Zn
+Ethylene carbonate (EC),C3H4O3,O=C1OCCO1,4.62,Zn
+Propylene carbonate (PC),C4H6O3,CC1COC(=O)O1,4.51,Zn
+Diethyl carbonate (DEC),C5H10O3,CCOC(=O)OCC,4.16,Zn
+Dimethyl carbonate (EMC),C3H6O3,COC(=O)OC,4.41,Zn
+Ethyl methyl carbonate (EMC),C4H8O3,CCOC(=O)OC,4.27,Zn
+Vinylene carbonate (VC),C3H2O3,O=c1occo1,3.13,Zn
+"2-Oxo-1,3-dioxolane-4-carbonitrile",C4H3NO3,N#CC1COC(=O)O1,5.02,Zn
+"4-Hydroxy-1,3-dioxolan-2-one",C3H4O4,O=C1OCC(O)O1,4.56,Zn
+"4-Fluoro-1,3-dioxolan-2-one",C3H3FO3,O=C1OCC(F)O1,5,Zn
+"4-(Trifluoromethyl)-1,3-dioxolan-2-one",C4H3F3O3,O=C1OCC(C(F)(F)F)O1,7.02,Zn
+"Methyl 2,2,2-trifluoroethyl carbonate",C4H5F3O3,COC(=O)OCC(F)(F)F,4.74,Zn
+Fluoromethyl methyl carbonate,C3H5FO3,COC(=O)OCF,4.7,Zn
+Methoxycarbonyloxy-acetic acid,C4H6O5,COC(=O)OCC(=O)O,4.07,Zn
+"4-Chloro-1,3-dioxolan-2-one",C3H3ClO3,O=C1OCC(Cl)O1,4.96,Zn
+Chloromethyl Methyl Carbonate,C3H5ClO3,COC(=O)OCCl,5.24,Zn
+"2-Oxo-1,3-dioxolane-4-carboxylic acid",C4H4O5,O=C1OCC(C(=O)O)O1,4.33,Zn
+2-Hydroxyethyl methyl carbonate,C4H8O4,COC(=O)OCCO,3.66,Zn
+Ethyl 2-fluoroethyl carbonate,C5H9FO3,CCOC(=O)OCCF,4.31,Zn
+"2,2-Difluoroethyl ethyl carbonate",C5H8F2O3,CCOC(=O)OCC(F)F,4.53,Zn
+2-Fluoroethyl methyl carbonate,C4H7FO3,COC(=O)OCCF,4.39,Zn
+"2,2-Difluoroethyl Methyl Carbonate",C4H6F2O3,COC(=O)OCC(F)F,4.56,Zn
+"Methyl 2,2,2-trifluoroethyl carbonate",C4H5F3O3,COC(=O)OCC(F)(F)F,4.8,Zn
+Methyl propyl carbonate (MPC),C5H10O3,CCCOC(=O)OC,3.88,Zn
+3-Fluoropropyl methyl carbonate,C5H9FO3,COC(=O)OCCCF,4.1,Zn
+"Carbonic acid methyl 3,3,3-trifluoropropyl ester",C5H7F3O3,COC(=O)OCCC(F)(F)F,4.51,Zn
+"Methyl 2,2,3,3-tetrafluoropropyl carbonate",C5H6F4O3,COC(=O)OCC(F)(F)C(F)F,4.66,Zn
+"Methyl 2,2,3,3,3-pentafluoropropyl carbonate",C5H5F5O3,COC(=O)OCC(F)(F)C(F)(F)F,4.77,Zn
+Ethyl propyl carbonate (EPC),C6H12O3,CCCOC(=O)OCC,4.39,Zn
+Ethyl propan-2-yl carbonate,C6H12O3,CCOC(=O)OC(C)C,4.04,Zn
+Methyl isopropyl carbonate,C5H10O3,COC(=O)OC(C)C,4.11,Zn
+"4-(Fluoromethyl)-1,3-dioxolan-2-one (FPC)",C4H5FO3,O=C1OCC(CF)O1,4.66,Zn
+"4-Ethyl-1,3-dioxolan-2-one (BC)",C5H8O3,CCC1COC(=O)O1,4.5,Zn
+3-(Methylsulfonyl)propyl methyl carbonate,C6H12O5S,COC(=O)OCCCS(C)(=O)=O,3.67,Zn
+Ethyl 3-methylsulfonylpropyl carbonate,C7H14O5S,CCOC(=O)OCCCS(C)(=O)=O,3.66,Zn
+"Bis(2,2,2-trifluoroethyl) Carbonate",C5H4F6O3,O=C(OCC(F)(F)F)OCC(F)(F)F,5.15,Zn
+"1,3-Benzodioxol-2-one",C7H4O3,O=c1oc2ccccc2o1,2.903,Zn
+"(S)-4-Ethenyl-1,3-dioxolan-2-one",C5H6O3,C=CC1COC(=O)O1,3.23,Zn
+"1,3-Dioxepan-2-one",C5H8O3,O=C1OCCCCO1,3.92,Zn
+"4,5-Dimethyl-1,3-dioxolan-2-one",C5H8O3,CC1OC(=O)OC1C,4.42,Zn
+Allyl methyl carbonate,C5H8O3,C=CCOC(=O)OC,3.18,Zn
+"4,5-Difluoro-1,3-dioxolan-2-one",C3H2F2O3,O=C1OC(F)C(F)O1,5.47,Zn
+Carbonic acid bis(trifluoromethyl) ester,C3F6O3,O=C(OC(F)(F)F)OC(F)(F)F,5.94,Zn
+1-Fluoroethyl methyl carbonate,C4H7FO3,COC(=O)OC(C)F,4.86,Zn
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,3.58,Zn
+Ethyl vinyl sulfone (EVS),C4H8O2S,C=CS(=O)(=O)CC,3.77,Zn
+Ethyl methyl sulfone (EMS),C3H8O2S,CCS(C)(=O)=O,3.73,Zn
+Dimethyl sulfone (DMS),C2H6O2S,CS(C)(=O)=O,4.14,Zn
+Diethyl sulfone (DES),C4H10O2S,CCS(=O)(=O)CC,3.57,Zn
+Dimethyl Sulfoxide (DMSO),C2H6OS,CS(C)=O,2.53,Zn
+Diethyl sulfoxide,C4H10OS,CCS(=O)CC,1.2,Zn
+Dipropyl sulfoxide,C6H14OS,CCCS(=O)CCC,0.98,Zn
+Dibutyl sulphoxide,C8H18OS,CCCCS(=O)CCCC,2.31,Zn
+Ethylene sulfite (ES),C2H4O3S,O=S1OCCO1,4.11,Zn
+Propylene sulfite (PS),C3H6O3S,CC1COS(=O)O1,3.99,Zn
+1-Fluoro-2-(methylsulfonyl)benzene (FS),C7H7FO2S,CS(=O)(=O)c1ccccc1F,3.24,Zn
+2-(Methylsulphonyl)propane,C4H10O2S,CC(C)S(C)(=O)=O,3.28,Zn
+Methanesulfonyl fluoride,CH3FO2S,CS(=O)(=O)F,5.39,Zn
+"1,1,1-Trifluoro-3-(methanesulfonyl)propane",C4H7F3O2S,CS(=O)(=O)CCC(F)(F)F,4.18,Zn
+Ethyl Isopropyl Sulfone,C5H12O2S,CCS(=O)(=O)C(C)C,3.19,Zn
+Ethyl isobutyl sulfone,C6H14O2S,CCS(=O)(=O)CC(C)C,3.47,Zn
+Dipropyl sulfone,C6H14O2S,CCCS(=O)(=O)CCC,3.51,Zn
+3-Methylsulfolane,C5H10O2S,CC1CCS(=O)(=O)C1,3.58,Zn
+"2-Methylthietane 1,1-dioxide",C4H8O2S,CC1CCS1(=O)=O,3.1,Zn
+3-Methylsulfonylpropyl acetate,C6H12O4S,CC(=O)OCCCS(C)(=O)=O,3.72,Zn
+"2-(Methylsulfonyl)ethyl 2,2-difluoroacetate",C5H8F2O4S,CS(=O)(=O)CCOC(=O)C(F)F,4.05,Zn
+"Thietane 1,1-dioxide",C3H6O2S,O=S1(=O)CCC1,4.25,Zn
+3-Methoxysulfolane,C5H10O3S,COC1CCS(=O)(=O)C1,3.23,Zn
+3-Ethoxysulfolane,C6H12O3S,CCOC1CCS(=O)(=O)C1,3.15,Zn
+"3-Isopropoxytetrahydrothiophene 1,1-dioxide",C7H14O3S,CC(C)OC1CCS(=O)(=O)C1,3.08,Zn
+"3-(2-Methoxyethoxy)thiolane 1,1-dioxide",C7H14O4S,COCCOC1CCS(=O)(=O)C1,2.8,Zn
+"1,1-Dioxidotetrahydro-3-thienyl acetate",C6H10O4S,CC(=O)OC1CCS(=O)(=O)C1,3.72,Zn
+Methyl Methanesulfonylacetate,C4H8O4S,COC(=O)CS(C)(=O)=O,3.92,Zn
+1-Methoxy-2-(2-methoxyethanesulfonyl)ethane,C6H14O4S,COCCS(=O)(=O)CCOC,3.23,Zn
+Ethyl methanesulfonylacetate,C5H10O4S,CCOC(=O)CS(C)(=O)=O,3.87,Zn
+Acetic acid 2-methanesulfonyl-ethyl ester,C5H10O4S,CC(=O)OCCS(C)(=O)=O,3.95,Zn
+"2-(Methylsulfonyl)ethyl 2,2,2-trifluoroacetate",C5H7F3O4S,CS(=O)(=O)CCOC(=O)C(F)(F)F,4.07,Zn
+Methyl 2-methylsulfonylethyl carbonate,C5H10O5S,COC(=O)OCCS(C)(=O)=O,3.94,Zn
+Methoxy(methylsulfonyl)methane,C3H8O3S,COCS(C)(=O)=O,2.44,Zn
+Methyl propyl sulfone (MPS),C4H10O2S,CCCS(C)(=O)=O,3.71,Zn
+1-Ethanesulfonyl-2-methoxy-ethane,C5H12O3S,CCS(=O)(=O)CCOC,3.25,Zn
+Butyl butane-1-sulfonate,C8H18O3S,CCCCOS(=O)(=O)CCCC,3.77,Zn
+"5-Fluoro-1,2-oxathiolane 2,2-Dioxide",C3H5FO3S,O=S1(=O)CCC(F)O1,4.78,Zn
+"1,3-Propane sultone",C3H6O3S,O=S1(=O)CCCO1,4.01,Zn
+"Prop-1-ene-1,3-sultone",C3H4O3S,O=S1(=O)C=CCO1,4.26,Zn
+Difluoro(methylsulfonyl)methane,C2H4F2O2S,CS(=O)(=O)C(F)F,3.98,Zn
+Methyltrifluoromethylsulfone,C2H3F3O2S,CS(=O)(=O)C(F)(F)F,4.52,Zn
+Chloromethylsulfonylmethane,C2H5ClO2S,CS(=O)(=O)CCl,4.26,Zn
+"Thiophene, 2-fluorotetrahydro-, 1,1-dioxide",C4H7FO2S,O=S1(=O)CCCC1F,3.45,Zn
+"Thiophene, 3-fluorotetrahydro-, 1,1-dioxide",C4H7FO2S,O=S1(=O)CCC(F)C1,3.83,Zn
+"1,1,1-Trifluoro-2-methylsulfonylethane",C3H5F3O2S,CS(=O)(=O)CC(F)(F)F,4.58,Zn
+Trifluoromethanesulphonylethane,C3H5F3O2S,CCS(=O)(=O)C(F)(F)F,4.36,Zn
+"1,1,1-Trifluoro-2-methylsulfonylpropane",C4H7F3O2S,CC(C(F)(F)F)S(C)(=O)=O,4.06,Zn
+2-(Trifluoromethanesulfonyl)propane,C4H7F3O2S,CC(C)S(=O)(=O)C(F)(F)F,3.29,Zn
+Methyl 2-(fluorosulfonyl)acetate,C3H5FO4S,COC(=O)CS(=O)(=O)F,4.68,Zn
+3-Cyanopropane-1-sulfonyl fluoride,C4H6FNO2S,N#CCCCS(=O)(=O)F,5.16,Zn
+"1,4-Butane sultone",C4H8O3S,O=S1(=O)CCCCO1,4.19,Zn
+Trimethyl phosphate (TMP),C3H9O4P,COP(=O)(OC)OC,3.95,Zn
+Triethyl phosphate (TEP),C6H15O4P,CCOP(=O)(OCC)OCC,3.82,Zn
+Dimethyl methylphosphonate,C3H9O3P,COP(C)(=O)OC,3.73,Zn
+Pyridine (py),C5H5N,c1ccncc1,2.99,Zn
+1-Methylimidazole,C4H6N2,Cn1ccnc1,2.29,Zn
+2-Pyrrolidinone,C4H7NO,O=C1CCCN1,3.13,Zn
+Pyrrolidine-2-thione,C4H7NS,S=C1CCCN1,2.22,Zn
+Succinimide,C4H5NO2,O=C1CCC(=O)N1,3.56,Zn
+1-Methyl-2-pyrrolidinone (NMP),C5H9NO,CN1CCCC1=O,2.46,Zn
+Acetone (AC),C3H6O,CC(C)=O,3.23,Zn
+"4,5-Dimethyl-1,3-dioxol-2-one",C5H6O3,Cc1oc(=O)oc1C,2.45,Zn
+3-Methyl-2-oxazolidone,C4H7NO2,CN1CCOC1=O,2.61,Zn
+1-Methyl-2-pyrrolidinone,C5H9NO,CN1CCCC1=O,2.46,Zn
+"1,3-Dimethyl-2-imidazolidinone (DMI)",C5H10N2O,CN1CCN(C)C1=O,1.82,Zn
+Furan,C4H4O,c1ccoc1,2.45,Zn
+"2,5-Dimethylfuran",C6H8O,Cc1ccc(C)o1,2.5,Zn
+Tetrahydropyran,C5H10O,C1CCOCC1,2.82,Zn
+Ethoxymethoxymethane,C4H10O2,CCOCOC,3.06,Zn
+3-Fluorofuran,C4H3FO,Fc1ccoc1,2.59,Zn
+2-Fluorofuran,C4H3FO,Fc1ccco1,2.47,Zn
+"3,4-Difluorofuran",C4H2F2O,Fc1cocc1F,2.8,Zn
+"2,5-Difluorofuran",C4H2F2O,Fc1ccc(F)o1,2.5,Zn
+"2,4-Difluorofuran",C4H2F2O,Fc1coc(F)c1,2.63,Zn
+2-Furonitrile,C5H3NO,N#Cc1ccco1,2.98,Zn
+2-Methoxyfuran,C5H6O2,COc1ccco1,1.72,Zn
+3-Methoxyfuran,C5H6O2,COc1ccoc1,2,Zn
+2-Ethylfuran,C6H8O,CCc1ccco1,2.1,Zn
+"2,3-Dimethylfuran",C6H8O,Cc1ccoc1C,1.86,Zn
+3-Methyltetrahydrofuran,C5H10O,CC1CCOC1,2.9,Zn
+2-Methyltetrahydrofuran,C5H10O,CC1CCCO1,2.84,Zn
+Methoxyacetone,C4H8O2,COCC(C)=O,2.67,Zn
+Chloroacetone,C3H5ClO,CC(=O)CCl,3.49,Zn
+Aminoacetone,C3H7NO,CC(=O)CN,2.12,Zn
+Fluoroacetone,C3H5FO,CC(=O)CF,3.51,Zn
+3-Heptanone,C7H14O,CCCCC(=O)CC,2.94,Zn
+Methyl Ethyl Ketone,C4H8O,CCC(C)=O,3.11,Zn
+gamma-Valerolactone,C5H8O2,CC1CCC(=O)O1,3.77,Zn
+"N,N-Dimethylformamide (DMF)",C3H7NO,CN(C)C=O,6.481,Mg
+Formamide,CH3NO,NC=O,5.849,Mg
+"N,N-Dimethylacetamide (DMA)",C4H9NO,CC(=O)N(C)C,6.766,Mg
+N-Methylacetamide (NMA),C3H7NO,CNC(C)=O,6.5,Mg
+Acetamide,C2H5NO,CC(N)=O,6.262,Mg
+Thioacetamide,C2H5NS,CC(N)=S,6,Mg
+Isobutyramide,C4H9NO,CC(C)C(N)=O,6.813,Mg
+Butyramide,C4H9NO,CCCC(N)=O,6.866,Mg
+Urea,CH4N2O,NC(N)=O,6.585,Mg
+Propionamide,C3H7NO,CCC(N)=O,6.422,Mg
+Dimethylcarbamyl fluoride,C3H6FNO,CN(C)C(=O)F,6.048,Mg
+2-Fluoro-N-methylacetamide,C3H6FNO,CNC(=O)CF,7.298,Mg
+N-Fluoromethyl-N-methylformamide,C3H6FNO,CN(C)C(=O)N(C)F,6.404,Mg
+N-Ethylformamide,C3H7NO,CCNC=O,6.404,Mg
+Cyanoformamide,C2H2N2O,N#CC(N)=O,5.151,Mg
+Formylhydrazine,CH4N2O,NNC=O,6.296,Mg
+n-Cyanoformamide,C2H2N2O,N#CNC=O,4.718,Mg
+Methyl carbamate,C2H5NO2,COC(N)=O,6.041,Mg
+Carbamic acid fluoride,CH2FNO,NC(=O)O,6.266,Mg
+N-Methylformamide,C2H5NO,CNC=O,6.262,Mg
+3-Fluoropropanamide,C3H6FNO,NC(=O)CCF,7.968,Mg
+4-Amino-2-fluorobutanal,C4H8FNO,NCCC(F)C=O,10.68,Mg
+Methylaminoformyl chloride,C2H4ClNO,CNC(=O)Cl,5.735,Mg
+Carbamoyl chloride,CH2ClNO,NC(=O)Cl,5.29,Mg
+Fluoroacetamide,C2H4FNO,NC(=O)CF,5.809,Mg
+N-(chloromethyl)carboxamide,C2H4ClNO,O=CNCCl,6.16,Mg
+N-Chloroacetamide,C2H4ClNO,CC(=O)NCl,6.128,Mg
+2-Chloroacetamide,C2H4ClNO,NC(=O)CCl,6.964,Mg
+N-Methoxyformamide,C2H5NO2,CONC=O,6.049,Mg
+Trifluoroacetamide,C2H2F3NO,NC(=O)C(F)(F)F,6.139,Mg
+Carbamic acid,CH3NO2,NC(=O)O,6.182,Mg
+"N,N-Diethylacetamide (DEA)",C6H13NO,CCN(CC)C(C)=O,7.145,Mg
+"N,N-Dimethylpropionamide",C5H11NO,CCC(=O)N(C)C,7.248,Mg
+"N,N-Dimethylbenzamide",C9H11NO,CN(C)C(=O)c1ccccc1,7.965,Mg
+"N,N-Dimethylbutyramide",C6H13NO,CCCC(=O)N(C)C,7.44,Mg
+2-Methoxyacetamide,C3H7NO2,COCC(N)=O,6.399,Mg
+"2,2,2-Trifluoro-N,N-dimethylacetamide",C4H6F3NO,CN(C)C(=O)C(F)(F)F,6.932,Mg
+Acetonitrile (AN),C2H3N,CC#N,4.845,Mg
+Propionitrile,C3H5N,CCC#N,5.027,Mg
+Butyronitrile,C4H7N,CCCC#N,5.137,Mg
+Valeronitrile,C5H9N,CCCCC#N,5.197,Mg
+Phenylacetonitrile,C8H7N,N#CCc1ccccc1,5.339,Mg
+2-Methoxypropanenitrile,C4H7NO,COC(C)C#N,4.594,Mg
+3-Oxopropanenitrile,C3H3NO,N#CCC=O,6.023,Mg
+3-Oxobutanenitrile,C4H5NO,CC(=O)CC#N,6.626,Mg
+Ethyl cyanoacetate (ECA),C5H7NO2,CCOC(=O)CC#N,7.179,Mg
+Fluoroacetonitrile,C2H2FN,N#CCF,4.315,Mg
+Aminoacetonitrile,C2H4N2,N#CCN,5.788,Mg
+Malononitrile,C3H2N2,N#CCC#N,5.211,Mg
+Methoxyacetonitrile,C3H5NO,COCC#N,4.939,Mg
+3-Methoxypropionitrile,C4H7NO,COCCC#N,5.468,Mg
+Glutaronitrile (GN),C5H6N2,N#CCCCC#N,7.472,Mg
+Adiponitrile (ADN),C6H8N2,N#CCCCCC#N,8.023,Mg
+Heptanedinitrile,C7H10N2,N#CCCCCCC#N,5.536,Mg
+Octanedinitrile,C8H12N2,N#CCCCCCCC#N,5.006,Mg
+Azelanitrile,C9H14N2,N#CCCCCCCCC#N,4.706,Mg
+Sebaconitrile,C10H16N2,N#CCCCCCCCCC#N,5.115,Mg
+Glycolonitrile,C2H3NO,N#CCO,4.857,Mg
+Chloroacetonitrile,C2H2ClN,N#CCCl,4.563,Mg
+"3,3,3-Trifluoropropionitrile",C3H2F3N,N#CCC(F)(F)F,4.487,Mg
+Cyanoacetic acid,C3H3NO2,N#CCC(=O)O,6.685,Mg
+2-Methylglutaronitrile,C6H8N2,CC(C#N)CCC#N,4.818,Mg
+Trimethylacetonitrile,C5H9N,CC(C)(C)C#N,5.317,Mg
+"2,2-Dimethylbutanenitrile",C6H11N,CCC(C)(C)C#N,5.393,Mg
+"1,2-Dimethoxyethane (DME)",C4H10O2,COCCOC,7.753,Mg
+tetrahydrofurane (THF),C4H8O,C1CCOC1,5.194,Mg
+2-Methyltetrahydrofuran,C5H10O,CC1CCCO1,5.803,Mg
+Anisole,C7H8O,COc1ccccc1,5.992,Mg
+"1,3-Dioxolane",C3H6O2,C1COCO1,5.018,Mg
+Ethyl Acetate (EA),C4H8O2,CCOC(C)=O,5.773,Mg
+Ethyl fluoroacetate (EFA),C4H7FO2,CCOC(=O)CF,5.778,Mg
+Ethyl difluoroacetate,C4H6F2O2,CCOC(=O)C(F)F,6.382,Mg
+Methyl acetate (MA),C3H6O2,COC(C)=O,5.601,Mg
+Methyl methoxyacetate,C4H8O3,COCC(=O)OC,7.793,Mg
+Methyl cyanoacetate,C4H5NO2,COC(=O)CC#N,6.959,Mg
+1-Methoxy-2-propyl acetate,C6H12O3,COCC(C)OC(C)=O,8.614,Mg
+2-Fluoroethyl acetate,C4H7FO2,CC(=O)OCCF,7.424,Mg
+Ethyl 2-Fluoropropionate,C5H9FO2,CCOC(=O)C(C)F,7.132,Mg
+Methyl butyrate (MB),C5H10O2,CCCC(=O)OC,6.386,Mg
+Ethyl butyrate (EB),C6H12O2,CCCC(=O)OCC,6.424,Mg
+gamma-Butyrolactone (GBL),C4H6O2,O=C1CCCO1,6.082,Mg
+3-fluorodihydrofuran-2(3H)-one,C4H5FO2,O=C1OCCC1F,6.379,Mg
+Delta-Valerolactone (DVL),C5H8O2,O=C1CCCCO1,6.437,Mg
+Dimethoxymethane (DMM),C3H8O2,COCOC,6.924,Mg
+1-Ethoxy-2-methoxyethane (EME),C5H12O2,CCOCCOC,8.226,Mg
+1-(2-Fluoroethoxy)-2-methoxyethane,C5H11FO2,COCCOCCF,9.357,Mg
+"1-(2,2-Difluoroethoxy)-2-methoxyethane",C5H10F2O2,COCCOCC(F)F,9.173,Mg
+"1-(2,2,2-Trifluoroethoxy)-2-methoxyethane",C5H9F3O2,COCCOCC(F)(F)F,8.789,Mg
+"1,2-Diethoxyethane (DEE)",C6H14O2,CCOCCOCC,8.324,Mg
+"1-(2,2-Difluoroethoxy)-2-ethoxyethane",C6H12F2O2,CCOCCOCC(F)F,9.337,Mg
+"1-(2,2,2-Trifluoroethoxy)-2-ethoxyethane",C6H11F3O2,CCOCCOCC(F)(F)F,8.974,Mg
+"4-Methyl-1,3-dioxolane",C4H8O2,CC1COCO1,5.573,Mg
+"2-Methyl-1,3-dioxolane",C4H8O2,CC1OCCO1,5.429,Mg
+Diglyme (G2),C6H14O3,COCCOCCOC,10.381,Mg
+Methyl 3-cyanopropanoate,C5H7NO2,COC(=O)CCC#N,5.229,Mg
+Methyl 2-cyano-2-methylpropanoate,C6H9NO2,COC(=O)C(C)(C)C#N,7.415,Mg
+Ethyl 2-cyano-2-methylpropanoate,C7H11NO2,CCOC(=O)C(C)(C)C#N,7.603,Mg
+Diethyl Ether,C4H10O,CCOCC,5.656,Mg
+Diisopropyl ether,C6H14O,CC(C)OC(C)C,6.148,Mg
+Cyclopentyl methyl ether,C6H12O,COC1CCCC1,5.916,Mg
+Tetrahydropyran,C5H10O,C1CCOCC1,5.152,Mg
+Triglyme,C8H18O4,COCCOCCOCCOC,10.406,Mg
+Methyl 2-(fluorosulfonyl)acetate,C3H5FO4S,COC(=O)CS(=O)(=O)F,7.497,Mg
+Nitroethane (NE),C2H5NO2,CC[N+](=O)[O-],5.004,Mg
+Propyl acetate,C5H10O2,CCCOC(C)=O,5.816,Mg
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,5.953,Mg
+Butyl acetate,C6H12O2,CCCCOC(C)=O,7.085,Mg
+Isobutyl acetate,C6H12O2,CC(=O)OCC(C)C,6.714,Mg
+Methyl propionate,C4H8O2,CCC(=O)OC,6.231,Mg
+Methyl formate,C2H4O2,COC=O,5.636,Mg
+Ethyl formate,C3H6O2,CCOC=O,5.9,Mg
+Propyl formate,C4H8O2,CCCOC=O,5.44,Mg
+Isopropyl formate,C4H8O2,CC(C)OC=O,5.625,Mg
+"Methyl 3,3-difluoropropanoate",C4H6F2O2,COC(=O)CC(F)F,7.038,Mg
+"Methyl 3,3,3-trifluoropropionate",C4H5F3O2,COC(=O)CC(F)(F)F,6.917,Mg
+"Ethyl 3,3,3-trifluoropropanoate",C5H7F3O2,CCOC(=O)CC(F)(F)F,7.116,Mg
+Flurothyl,C4H4F6O,FC(F)(F)COCC(F)(F)F,7.005,Mg
+"Pentafluoroethyl 2,2,2-trifluoroethyl ether",C4H2F8O,FC(F)(F)COC(F)(F)C(F)(F)F,6.138,Mg
+"1,1,2,2-Tetrafluoro-3-(1,1,2,2-tetrafluoroethoxy)propane",C5H4F8O,FC(F)C(F)(F)COC(F)(F)C(F)F,7.133,Mg
+"Ethyl 1,1,2,2-tetrafluoroethyl ether",C4H6F4O,CCOC(F)(F)C(F)F,6.016,Mg
+"1,1,2,2-Tetrafluoroethyl 2,2,2-trifluoroethyl ether",C4H3F7O,FC(F)C(F)(F)OCC(F)(F)F,6.21,Mg
+Methoxy(methoxymethoxy)methane,C4H10O3,COCOCOC,9.02,Mg
+Fluoro(dimethoxy)methane,C3H7FO2,COC(F)OC,6.5,Mg
+Difluoro(dimethoxy)methane,C3H6F2O2,COC(F)(F)OC,5.967,Mg
+Difluoro(methoxymethoxy)methane,C3H6F2O2,COCOC(F)F,6.805,Mg
+Trifluoro(methoxymethoxy)methane,C3H5F3O2,COCOC(F)(F)F,4.579,Mg
+"1-(2,2,2-Trifluoroethoxy)-2-methoxyethane",C5H9F3O2,COCCOCC(F)(F)F,8.709,Mg
+Phenetole,C8H10O,CCOc1ccccc1,6.19,Mg
+Propoxybenzene,C9H12O,CCCOc1ccccc1,5.636,Mg
+Butyl phenyl ether,C10H14O,CCCCOc1ccccc1,7.412,Mg
+Methyl tert-butyl ether,C5H12O,COC(C)(C)C,5.971,Mg
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,7.161,Mg
+Dioxane,C4H8O2,C1COCCO1,5.02,Mg
+"2-Methyl-1,4-dioxane",C5H10O2,CC1COCCO1,6.694,Mg
+"5-Fluoro-1,3-dioxane",C4H7FO2,FC1COCOC1,5.476,Mg
+"5,5-Difluoro-1,3-dioxane",C4H6F2O2,FC1(F)COCOC1,5.137,Mg
+"4,4-Difluoro-1,3-dioxane",C4H6F2O2,FC1(F)CCOCO1,8.566,Mg
+"2-Methoxy-1,3-dioxane",C5H10O3,COC1OCCCO1,9.313,Mg
+"5-Methoxy-1,3-dioxane",C5H10O3,COC1COCOC1,5.836,Mg
+"N,N-Dimethyl-1,3-dioxan-2-amine",C6H13NO2,CN(C)C1OCCCO1,7.695,Mg
+Ethyl propionate,C5H10O2,CCOC(=O)CC,6.002,Mg
+Methoxymethyl acetate,C4H8O3,COCOC(C)=O,6.186,Mg
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,8.12,Mg
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,6.008,Mg
+Vinyl acetate,C4H6O2,C=COC(C)=O,5.683,Mg
+Methyl glycinate,C3H7NO2,COC(=O)CN,7.824,Mg
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,6.092,Mg
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,7.499,Mg
+Ethylene carbonate (EC),C3H4O3,O=C1OCCO1,6.198,Mg
+Propylene carbonate (PC),C4H6O3,CC1COC(=O)O1,6.383,Mg
+Diethyl carbonate (DEC),C5H10O3,CCOC(=O)OCC,6.116,Mg
+Dimethyl carbonate (EMC),C3H6O3,COC(=O)OC,5.496,Mg
+Ethyl methyl carbonate (EMC),C4H8O3,CCOC(=O)OC,5.656,Mg
+Vinylene carbonate (VC),C3H2O3,O=c1occo1,5.692,Mg
+"2-Oxo-1,3-dioxolane-4-carbonitrile",C4H3NO3,N#CC1COC(=O)O1,5.657,Mg
+"4-Hydroxy-1,3-dioxolan-2-one",C3H4O4,O=C1OCC(O)O1,6.627,Mg
+"4-Fluoro-1,3-dioxolan-2-one",C3H3FO3,O=C1OCC(F)O1,5.837,Mg
+"4-(Trifluoromethyl)-1,3-dioxolan-2-one",C4H3F3O3,O=C1OCC(C(F)(F)F)O1,5.866,Mg
+"Methyl 2,2,2-trifluoroethyl carbonate",C4H5F3O3,COC(=O)OCC(F)(F)F,6.974,Mg
+Fluoromethyl methyl carbonate,C3H5FO3,COC(=O)OCF,9.087,Mg
+Methoxycarbonyloxy-acetic acid,C4H6O5,COC(=O)OCC(=O)O,7.967,Mg
+"4-Chloro-1,3-dioxolan-2-one",C3H3ClO3,O=C1OCC(Cl)O1,9.991,Mg
+"2-Oxo-1,3-dioxolane-4-carboxylic acid",C4H4O5,O=C1OCC(C(=O)O)O1,7.765,Mg
+2-Hydroxyethyl methyl carbonate,C4H8O4,COC(=O)OCCO,7.971,Mg
+"2,2-Difluoroethyl ethyl carbonate",C5H8F2O3,CCOC(=O)OCC(F)F,7.136,Mg
+2-Fluoroethyl methyl carbonate,C4H7FO3,COC(=O)OCCF,7.119,Mg
+"2,2-Difluoroethyl Methyl Carbonate",C4H6F2O3,COC(=O)OCC(F)F,6.848,Mg
+"Methyl 2,2,2-trifluoroethyl carbonate",C4H5F3O3,COC(=O)OCC(F)(F)F,7.081,Mg
+Methyl propyl carbonate (MPC),C5H10O3,CCCOC(=O)OC,5.701,Mg
+3-Fluoropropyl methyl carbonate,C5H9FO3,COC(=O)OCCCF,8.827,Mg
+Carbonic acid methyl 2-fluoropropyl ester,C5H9FO3,COC(=O)OC(C)CF,7.837,Mg
+"Carbonic acid methyl 3,3,3-trifluoropropyl ester",C5H7F3O3,COC(=O)OCCC(F)(F)F,7.222,Mg
+"Methyl 2,2,3,3-tetrafluoropropyl carbonate",C5H6F4O3,COC(=O)OCC(F)(F)C(F)F,7.818,Mg
+"Methyl 2,2,3,3,3-pentafluoropropyl carbonate",C5H5F5O3,COC(=O)OCC(F)(F)C(F)(F)F,7.077,Mg
+Ethyl propyl carbonate (EPC),C6H12O3,CCCOC(=O)OCC,6.297,Mg
+Ethyl propan-2-yl carbonate,C6H12O3,CCOC(=O)OC(C)C,6.221,Mg
+Methyl isopropyl carbonate,C5H10O3,COC(=O)OC(C)C,5.936,Mg
+"4-(Fluoromethyl)-1,3-dioxolan-2-one (FPC)",C4H5FO3,O=C1OCC(CF)O1,6.167,Mg
+"4-Ethyl-1,3-dioxolan-2-one (BC)",C5H8O3,CCC1COC(=O)O1,6.43,Mg
+3-(Methylsulfonyl)propyl methyl carbonate,C6H12O5S,COC(=O)OCCCS(C)(=O)=O,8.935,Mg
+Ethyl 3-methylsulfonylpropyl carbonate,C7H14O5S,CCOC(=O)OCCCS(C)(=O)=O,10.665,Mg
+"Bis(2,2,2-trifluoroethyl) Carbonate",C5H4F6O3,O=C(OCC(F)(F)F)OCC(F)(F)F,7.44,Mg
+"1,3-Benzodioxol-2-one",C7H4O3,O=c1oc2ccccc2o1,5.973,Mg
+"(S)-4-Ethenyl-1,3-dioxolan-2-one",C5H6O3,C=CC1COC(=O)O1,6.466,Mg
+"1,3-Dioxepan-2-one",C5H8O3,O=C1OCCCCO1,7.026,Mg
+"4,5-Dimethyl-1,3-dioxolan-2-one",C5H8O3,CC1OC(=O)OC1C,6.549,Mg
+Allyl methyl carbonate,C5H8O3,C=CCOC(=O)OC,6.585,Mg
+"4,5-Difluoro-1,3-dioxolan-2-one",C3H2F2O3,O=C1OC(F)C(F)O1,5.526,Mg
+Carbonic acid bis(trifluoromethyl) ester,C3F6O3,O=C(OC(F)(F)F)OC(F)(F)F,5.427,Mg
+Carbonic acid bis(fluoromethyl) ester,C3H4F2O3,O=C(OC(F)F)OC(F)F,6.321,Mg
+1-Fluoroethyl methyl carbonate,C4H7FO3,COC(=O)OC(C)F,7.555,Mg
+"5-Methyl-2,5-(oxymethylene)-2-bora-1,3-dioxane",C5H9BO3,CC1COC(OCC2COC2C)O1,9.837,Mg
+"4-Nitro-1-bora-2,6,7-trioxabicyclo[2.2.2]octane",C4H6BNO5,O=[N+]([O-])C1OC2BON1O2,10.267,Mg
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,7.569,Mg
+Ethyl vinyl sulfone (EVS),C4H8O2S,C=CS(=O)(=O)CC,7.553,Mg
+Ethyl methyl sulfone (EMS),C3H8O2S,CCS(C)(=O)=O,7.432,Mg
+Dimethyl sulfone (DMS),C2H6O2S,CS(C)(=O)=O,7.191,Mg
+Diethyl sulfone (DES),C4H10O2S,CCS(=O)(=O)CC,7.666,Mg
+Dimethyl Sulfoxide (DMSO),C2H6OS,CS(C)=O,6.737,Mg
+Diethyl sulfoxide,C4H10OS,CCS(=O)CC,6.737,Mg
+Dipropyl sulfoxide,C6H14OS,CCCS(=O)CCC,7.044,Mg
+Dibutyl sulphoxide,C8H18OS,CCCCS(=O)CCCC,7.138,Mg
+Ethylene sulfite (ES),C2H4O3S,O=S1OCCO1,6.196,Mg
+Propylene sulfite (PS),C3H6O3S,CC1COS(=O)O1,6.409,Mg
+1-Fluoro-2-(methylsulfonyl)benzene (FS),C7H7FO2S,CS(=O)(=O)c1ccccc1F,6.781,Mg
+2-(Methylsulphonyl)propane,C4H10O2S,CC(C)S(C)(=O)=O,7.644,Mg
+Methanesulfonyl fluoride,CH3FO2S,CS(=O)(=O)F,5.189,Mg
+"1,1,1-Trifluoro-3-(methanesulfonyl)propane",C4H7F3O2S,CS(=O)(=O)CCC(F)(F)F,7.06,Mg
+Ethyl Isopropyl Sulfone,C5H12O2S,CCS(=O)(=O)C(C)C,7.859,Mg
+Ethyl isobutyl sulfone,C6H14O2S,CCS(=O)(=O)CC(C)C,7.89,Mg
+sec-Butylethyl sulfone,C6H14O2S,CCC(C)S(=O)(=O)CC,7.829,Mg
+Dipropyl sulfone,C6H14O2S,CCCS(=O)(=O)CCC,7.896,Mg
+3-Methylsulfolane,C5H10O2S,CC1CCS(=O)(=O)C1,7.695,Mg
+"2-Methylthietane 1,1-dioxide",C4H8O2S,CC1CCS1(=O)=O,7.473,Mg
+Methyl(2-methoxyethyl) sulfone,C4H10O3S,CC(C)OCS(C)(=O)=O,4.905,Mg
+3-Methylsulfonylpropyl acetate,C6H12O4S,CC(=O)OCCCS(C)(=O)=O,9.643,Mg
+"2-(Methylsulfonyl)ethyl 2,2-difluoroacetate",C5H8F2O4S,CS(=O)(=O)CCOC(=O)C(F)F,9.573,Mg
+4-(Methylsulfonyl)butanenitrile,C5H9NO2S,CC(C)C(=O)CN(C)S(C)(=O)=O,9.55,Mg
+"Thietane 1,1-dioxide",C3H6O2S,O=S1(=O)CCC1,7.198,Mg
+3-Methoxysulfolane,C5H10O3S,COC1CCS(=O)(=O)C1,7.864,Mg
+3-Ethoxysulfolane,C6H12O3S,CCOC1CCS(=O)(=O)C1,7.662,Mg
+"3-Isopropoxytetrahydrothiophene 1,1-dioxide",C7H14O3S,CC(C)OC1CCS(=O)(=O)C1,8.745,Mg
+"3-(2-Methoxyethoxy)thiolane 1,1-dioxide",C7H14O4S,COCCOC1CCS(=O)(=O)C1,10.916,Mg
+"1,1-Dioxidotetrahydro-3-thienyl acetate",C6H10O4S,CC(=O)OC1CCS(=O)(=O)C1,8.592,Mg
+Methyl Methanesulfonylacetate,C4H8O4S,COC(=O)CS(C)(=O)=O,9.404,Mg
+1-Methoxy-2-(2-methoxyethanesulfonyl)ethane,C6H14O4S,COCCS(=O)(=O)CCOC,9.975,Mg
+Ethyl methanesulfonylacetate,C5H10O4S,CCOC(=O)CS(C)(=O)=O,9.551,Mg
+Acetic acid 2-methanesulfonyl-ethyl ester,C5H10O4S,CC(=O)OCCS(C)(=O)=O,6.12,Mg
+"2-(Methylsulfonyl)ethyl 2,2,2-trifluoroacetate",C5H7F3O4S,CS(=O)(=O)CCOC(=O)C(F)(F)F,6.233,Mg
+Methyl 2-methylsulfonylethyl carbonate,C5H10O5S,COC(=O)OCCS(C)(=O)=O,5.408,Mg
+Carbonic acid ethyl[2-(methylsulfonyl)ethyl] ester,C6H12O5S,CCOC(=O)C(C)CS(C)(=O)=O,10.421,Mg
+2-{[(2-methanesulfonylethoxy)carbonyl]oxy}propane,C7H14O5S,CC(C)COC(=O)OCCS(C)(=O)=O,9.78,Mg
+Methoxy(methylsulfonyl)methane,C3H8O3S,COCS(C)(=O)=O,6.577,Mg
+Methyl propyl sulfone (MPS),C4H10O2S,CCCS(C)(=O)=O,7.575,Mg
+sec-Butylisopropyl sulfone,C7H16O2S,CC(C)S(=O)(=O)C(C)C,7.916,Mg
+1-Ethanesulfonyl-2-methoxy-ethane,C5H12O3S,CCS(=O)(=O)CCOC,7.497,Mg
+"1,1-Dioxo-1λ^6-thiolan-3-yl ethyl carbonate",C7H12O5S,CCOC(=O)O[C@H]1SC(=O)C1=O,7.852,Mg
+Butyl butane-1-sulfonate,C8H18O3S,CCCCOS(=O)(=O)CCCC,7.958,Mg
+"5-Fluoro-1,2-oxathiolane 2,2-Dioxide",C3H5FO3S,O=S1(=O)CCC(F)O1,6.9,Mg
+"1,3-Propane sultone",C3H6O3S,O=S1(=O)CCCO1,7.174,Mg
+"Prop-1-ene-1,3-sultone",C3H4O3S,O=S1(=O)C=CCO1,7.145,Mg
+Difluoro(methylsulfonyl)methane,C2H4F2O2S,CS(=O)(=O)C(F)F,6.754,Mg
+Methyltrifluoromethylsulfone,C2H3F3O2S,CS(=O)(=O)C(F)(F)F,6.354,Mg
+Chloromethylsulfonylmethane,C2H5ClO2S,CS(=O)(=O)CCl,7.06,Mg
+"Thiophene, 2-fluorotetrahydro-, 1,1-dioxide",C4H7FO2S,O=S1(=O)CCCC1F,7.257,Mg
+"Thiophene, 3-fluorotetrahydro-, 1,1-dioxide",C4H7FO2S,O=S1(=O)CCC(F)C1,7.067,Mg
+"1,1,1-Trifluoro-2-methylsulfonylethane",C3H5F3O2S,CS(=O)(=O)CC(F)(F)F,7.627,Mg
+Trifluoromethanesulphonylethane,C3H5F3O2S,CCS(=O)(=O)C(F)(F)F,6.606,Mg
+"1,1,1-Trifluoro-2-methylsulfonylpropane",C4H7F3O2S,CC(C(F)(F)F)S(C)(=O)=O,6.899,Mg
+2-(Trifluoromethanesulfonyl)propane,C4H7F3O2S,CC(C)S(=O)(=O)C(F)(F)F,6.841,Mg
+Methyl 2-(fluorosulfonyl)acetate,C3H5FO4S,COC(=O)CS(=O)(=O)F,7.52,Mg
+3-Cyanopropane-1-sulfonyl fluoride,C4H6FNO2S,N#CCCCS(=O)(=O)F,4.999,Mg
+"1,4-Butane sultone",C4H8O3S,O=S1(=O)CCCCO1,7.494,Mg
+Trimethyl phosphate (TMP),C3H9O4P,COP(=O)(OC)OC,7.509,Mg
+Triethyl phosphate (TEP),C6H15O4P,CCOP(=O)(OCC)OCC,8.164,Mg
+Dimethyl methylphosphonate,C3H9O3P,COP(C)(=O)OC,8.633,Mg
+Pyridine (py),C5H5N,c1ccncc1,7.647,Mg
+1-Methylimidazole,C4H6N2,Cn1ccnc1,5.5,Mg
+2-Pyrrolidinone,C4H7NO,O=C1CCCN1,6.293,Mg
+Pyrrolidine-2-thione,C4H7NS,S=C1CCCN1,6.575,Mg
+Succinimide,C4H5NO2,O=C1CCC(=O)N1,6.166,Mg
+1-Methyl-2-pyrrolidinone (NMP),C5H9NO,CN1CCCC1=O,5.853,Mg
+Acetone (AC),C3H6O,CC(C)=O,6.781,Mg
+"4,5-Dimethyl-1,3-dioxol-2-one",C5H6O3,Cc1oc(=O)oc1C,5.401,Mg
+3-Methyl-2-oxazolidone,C4H7NO2,CN1CCOC1=O,6.253,Mg
+1-Methyl-2-pyrrolidinone,C5H9NO,CN1CCCC1=O,6.8,Mg
+"1,3-Dimethyl-2-imidazolidinone (DMI)",C5H10N2O,CN1CCN(C)C1=O,6.78,Mg
+Furan,C4H4O,c1ccoc1,7.009,Mg
+"2,5-Dimethylfuran",C6H8O,Cc1ccc(C)o1,3.895,Mg
+Tetrahydropyran,C5H10O,C1CCOCC1,4.873,Mg
+Ethoxymethoxymethane,C4H10O2,CCOCOC,5.175,Mg
+3-Fluorofuran,C4H3FO,Fc1ccoc1,7.253,Mg
+2-Fluorofuran,C4H3FO,Fc1ccco1,4.17,Mg
+"3,4-Difluorofuran",C4H2F2O,Fc1cocc1F,3.3,Mg
+"2,5-Difluorofuran",C4H2F2O,Fc1ccc(F)o1,3.632,Mg
+"2,3-Difluorofuran",C4H2F2O,O=C1C=CCC1F,6.713,Mg
+"2,4-Difluorofuran",C4H2F2O,Fc1coc(F)c1,3.82,Mg
+2-Furonitrile,C5H3NO,N#Cc1ccco1,5.417,Mg
+2-Methoxyfuran,C5H6O2,COc1ccco1,5.792,Mg
+3-Methoxyfuran,C5H6O2,COc1ccoc1,6.393,Mg
+2-Ethylfuran,C6H8O,CCc1ccco1,4.823,Mg
+"2,3-Dimethylfuran",C6H8O,Cc1ccoc1C,4.855,Mg
+3-Methyltetrahydrofuran,C5H10O,CC1CCOC1,5.322,Mg
+2-Methyltetrahydrofuran,C5H10O,CC1CCCO1,5.819,Mg
+Methoxyacetone,C4H8O2,COCC(C)=O,7.524,Mg
+Chloroacetone,C3H5ClO,CC(=O)CCl,6.229,Mg
+Aminoacetone,C3H7NO,CC(=O)CN,7.701,Mg
+Fluoroacetone,C3H5FO,CC(=O)CF,6.185,Mg
+3-Heptanone,C7H14O,CCCCC(=O)CC,6.215,Mg
+Methyl Ethyl Ketone,C4H8O,CCC(C)=O,5.891,Mg
+gamma-Valerolactone,C5H8O2,CC1CCC(=O)O1,6.327,Mg
+Propylene carbonate,C4H6O3,CC1COC(=O)O1,1.165,Cs
+Ethylene carbonate,C3H4O3,O=C1OCCO1,1.135,Cs
+Vinylene carbonate,C3H2O3,O=c1occo1,1.025,Cs
+Fluoroethylene carbonate,C3H3FO3,O=C1OCC(F)O1,1.001,Cs
+Dimethyl carbonate,C3H6O3,COC(=O)OC,0.842,Cs
+Diethyl carbonate,C5H10O3,CCOC(=O)OCC,0.877,Cs
+Ethyl methyl carbonate,C4H8O3,CCOC(=O)OC,0.878,Cs
+Furan,C4H4O,c1ccoc1,0.461,Cs
+"2,5-dimethylfuran",C6H8O,Cc1ccc(C)o1,0.56,Cs
+Tetrahydrofuran,C4H8O,C1CCOC1,0.851,Cs
+2-methyltetrahydrofuran,C5H10O,CC1CCCO1,0.874,Cs
+Tetrahydropyran,C5H10O,C1CCOCC1,0.821,Cs
+"1,3-dioxolane",C3H6O2,C1COCO1,0.715,Cs
+"1,4-dioxane",C4H8O2,C1COCCO1,0.688,Cs
+Ethoxymethoxymethane,C5H12O3,CCOCOC,0.682,Cs
+Ethyl acetate,C4H8O2,CCOC(C)=O,0.95,Cs
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,0.958,Cs
+Methyl propionate,C4H8O2,CCC(=O)OC,0.896,Cs
+Ethyl propionate,C5H10O2,CCOC(=O)CC,0.935,Cs
+Methyl formate,C2H4O2,COC=O,0.861,Cs
+Ethyl butyrate,C6H12O2,CCCC(=O)OCC,0.902,Cs
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,0.926,Cs
+Vinyl acetate,C4H6O2,C=COC(C)=O,0.857,Cs
+Gamma-butyrolactone,C4H6O2,O=C1CCCO1,1.148,Cs
+Gamma-valerolactone,C5H8O2,CC1CCC(=O)O1,1.18,Cs
+Delta-valerolactone,C5H8O2,O=C1CCCCO1,1.203,Cs
+Epsilon-caprolactone,C6H10O2,O=C1CCCCCO1,1.238,Cs
+Gamma-hexanolactone,C6H10O2,CCCC1CC(=O)O1,1.188,Cs
+Trimethyl phosphate,C3H9O4P,COP(=O)(OC)OC,1.346,Cs
+Triethyl phosphate,C6H15O4P,CCOP(=O)(OCC)OCC,1.415,Cs
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,1.2,Cs
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,0.928,Cs
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,1.055,Cs
+"1,3-propanesultone",C3H6O3S,O=S1(=O)CCCO1,1.102,Cs
+"1,4-butane sultone",C4H8O3S,O=S1(=O)CCCCO1,1.138,Cs
+Dimethyl sulfoxide,C2H6OS,CS(C)=O,1.427,Cs
+Succinic anhydride,C4H4O3,O=C1CCC(=O)O1,0.904,Cs
+Cyclohexanone,C6H10O,O=C1CCCCC1,1.025,Cs
+Caprolactone,C6H10O2,O=C1CCCCCO1,1.238,Cs
+Propiolactone,C3H4O2,O=C1CCO1,1.011,Cs
+Cyclopentanone,C5H8O,O=C1CCCC1,1.012,Cs
+Diketene,C4H4O2,C=C1CC(=O)O1,0.928,Cs
+Acetophenone,C8H8O,CC(=O)c1ccccc1,0.997,Cs
+Guaiacol,C7H8O2,COc1ccccc1O,1.227,Cs
+Benzaldehyde,C7H6O,O=Cc1ccccc1,0.958,Cs
+2-methylcyclohexanone,C7H12O,CC1CCCCC1=O,1.043,Cs
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,0.928,Cs
+Diethylsulfate,C4H10O4S,CCOS(=O)(=O)OCC,1.148,Cs
+"2,3-butanedione",C4H6O2,CC(=O)C(C)=O,0.7,Cs
+Benzyl benzoate,C14H12O2,O=C(OCc1ccccc1)c1ccccc1,1.441,Cs
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,0.638,Cs
+Pentanal,C5H10O,CCCCC=O,0.859,Cs
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,0.907,Cs
+Acetone,C3H6O,CC(C)=O,0.987,Cs
+Diethyl ether,C4H10O,CCOCC,0.825,Cs
+Methyl methacrylate,C5H8O2,C=C(C)C(=O)OC,0.944,Cs
+Chloroacetone,C3H5ClO,CC(=O)CCl,0.845,Cs
+N-butyl acetate,C6H12O2,CCCCOC(C)=O,0.964,Cs
+2-heptanone,C7H14O,CCCCCC(C)=O,0.947,Cs
+4-heptanone,C7H14O,CCCC(=O)CCC,0.923,Cs
+6-methyl-5-hepten-2-one,C8H14O,CC(=O)CCC=C(C)C,0.879,Cs
+3-pentanone,C5H10O,CCC(=O)CC,0.92,Cs
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,0.96,Cs
+Methyl vinyl ketone,C5H8O,C=CC(C)=O,0.959,Cs
+Methyl acrylate,C4H6O2,C=CC(=O)OC,0.938,Cs
+Ethyl acrylate,C5H8O2,C=CC(=O)OCC,1.001,Cs
+Butyl butyrate,C8H16O2,CCCCOC(=O)CCC,0.95,Cs
+Butyl ethyl ketone,C8H16O,CCCCC(=O)CC,0.948,Cs
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,0.977,Cs
+Propylene carbonate,C4H6O3,CC1COC(=O)O1,1.397,K
+Ethylene carbonate,C3H4O3,O=C1OCCO1,1.365,K
+Vinylene carbonate,C3H2O3,O=c1occo1,1.246,K
+Fluoroethylene carbonate,C3H3FO3,O=C1OCC(F)O1,1.21,K
+Dimethyl carbonate,C3H6O3,COC(=O)OC,1.078,K
+Diethyl carbonate,C5H10O3,CCOC(=O)OCC,1.106,K
+Ethyl methyl carbonate,C4H8O3,CCOC(=O)OC,1.108,K
+Furan,C4H4O,c1ccoc1,0.605,K
+"2,5-dimethylfuran",C6H8O,Cc1ccc(C)o1,0.741,K
+Tetrahydrofuran,C4H8O,C1CCOC1,1.065,K
+2-methyltetrahydrofuran,C5H10O,CC1CCCO1,1.095,K
+Tetrahydropyran,C5H10O,C1CCOCC1,1.028,K
+"1,3-dioxolane",C3H6O2,C1COCO1,0.911,K
+"1,4-dioxane",C4H8O2,C1COCCO1,0.888,K
+Ethoxymethoxymethane,C5H12O3,CCOCOC,0.881,K
+Ethyl acetate,C4H8O2,CCOC(C)=O,1.185,K
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.187,K
+Methyl propionate,C4H8O2,CCC(=O)OC,1.133,K
+Ethyl propionate,C5H10O2,CCOC(=O)CC,1.172,K
+Methyl formate,C2H4O2,COC=O,1.082,K
+Ethyl butyrate,C6H12O2,CCCC(=O)OCC,1.142,K
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,1.165,K
+Vinyl acetate,C4H6O2,C=COC(C)=O,1.076,K
+Gamma-butyrolactone,C4H6O2,O=C1CCCO1,1.377,K
+Gamma-valerolactone,C5H8O2,CC1CCC(=O)O1,1.412,K
+Delta-valerolactone,C5H8O2,O=C1CCCCO1,1.456,K
+Epsilon-caprolactone,C6H10O2,O=C1CCCCCO1,1.478,K
+Gamma-hexanolactone,C6H10O2,CCCC1CC(=O)O1,1.426,K
+Trimethyl phosphate,C3H9O4P,COP(=O)(OC)OC,1.611,K
+Triethyl phosphate,C6H15O4P,CCOP(=O)(OCC)OCC,1.71,K
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,1.45,K
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.141,K
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,1.263,K
+"1,3-propanesultone",C3H6O3S,O=S1(=O)CCCO1,1.327,K
+"1,4-butane sultone",C4H8O3S,O=S1(=O)CCCCO1,1.356,K
+Dimethyl sulfoxide,C2H6OS,CS(C)=O,1.725,K
+Succinic anhydride,C4H4O3,O=C1CCC(=O)O1,1.095,K
+Cyclohexanone,C6H10O,O=C1CCCCC1,1.265,K
+Caprolactone,C6H10O2,O=C1CCCCCO1,1.478,K
+Propiolactone,C3H4O2,O=C1CCO1,1.228,K
+Cyclopentanone,C5H8O,O=C1CCCC1,1.247,K
+Diketene,C4H4O2,C=C1CC(=O)O1,1.126,K
+Acetophenone,C8H8O,CC(=O)c1ccccc1,1.235,K
+Guaiacol,C7H8O2,COc1ccccc1O,1.535,K
+Benzaldehyde,C7H6O,O=Cc1ccccc1,1.188,K
+2-methylcyclohexanone,C7H12O,CC1CCCCC1=O,1.286,K
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.141,K
+Diethylsulfate,C4H10O4S,CCOS(=O)(=O)OCC,1.384,K
+"2,3-butanedione",C4H6O2,CC(=O)C(C)=O,0.899,K
+Benzyl benzoate,C14H12O2,O=C(OCc1ccccc1)c1ccccc1,1.682,K
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,0.758,K
+Pentanal,C5H10O,CCCCC=O,1.079,K
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,1.139,K
+Acetone,C3H6O,CC(C)=O,1.219,K
+Diethyl ether,C4H10O,CCOCC,1.056,K
+Methyl methacrylate,C5H8O2,C=C(C)C(=O)OC,1.186,K
+Chloroacetone,C3H5ClO,CC(=O)CCl,1.047,K
+N-butyl acetate,C6H12O2,CCCCOC(C)=O,1.202,K
+2-heptanone,C7H14O,CCCCCC(C)=O,1.187,K
+4-heptanone,C7H14O,CCCC(=O)CCC,1.159,K
+6-methyl-5-hepten-2-one,C8H14O,CC(=O)CCC=C(C)C,1.111,K
+3-pentanone,C5H10O,CCC(=O)CC,1.152,K
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.19,K
+Methyl vinyl ketone,C5H8O,C=CC(C)=O,1.187,K
+Methyl acrylate,C4H6O2,C=CC(=O)OC,1.178,K
+Ethyl acrylate,C5H8O2,C=CC(=O)OCC,1.237,K
+Butyl butyrate,C8H16O2,CCCCOC(=O)CCC,1.189,K
+Butyl ethyl ketone,C8H16O,CCCCC(=O)CC,1.174,K
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,1.215,K
+Propylene carbonate,C4H6O3,CC1COC(=O)O1,2.399,Li
+Ethylene carbonate,C3H4O3,O=C1OCCO1,2.343,Li
+Vinylene carbonate,C3H2O3,O=c1occo1,2.179,Li
+Fluoroethylene carbonate,C3H3FO3,O=C1OCC(F)O1,2.128,Li
+Dimethyl carbonate,C3H6O3,COC(=O)OC,2.068,Li
+Diethyl carbonate,C5H10O3,CCOC(=O)OCC,2.13,Li
+Ethyl methyl carbonate,C4H8O3,CCOC(=O)OC,2.114,Li
+Furan,C4H4O,c1ccoc1,1.32,Li
+"2,5-dimethylfuran",C6H8O,Cc1ccc(C)o1,1.515,Li
+Tetrahydrofuran,C4H8O,C1CCOC1,2.047,Li
+2-methyltetrahydrofuran,C5H10O,CC1CCCO1,2.096,Li
+Tetrahydropyran,C5H10O,C1CCOCC1,1.996,Li
+"1,3-dioxolane",C3H6O2,C1COCO1,1.825,Li
+"1,4-dioxane",C4H8O2,C1COCCO1,1.808,Li
+Ethoxymethoxymethane,C5H12O3,CCOCOC,1.837,Li
+Ethyl acetate,C4H8O2,CCOC(C)=O,2.206,Li
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,2.222,Li
+Methyl propionate,C4H8O2,CCC(=O)OC,2.138,Li
+Ethyl propionate,C5H10O2,CCOC(=O)CC,2.202,Li
+Methyl formate,C2H4O2,COC=O,2.011,Li
+Ethyl butyrate,C6H12O2,CCCC(=O)OCC,2.18,Li
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,2.183,Li
+Vinyl acetate,C4H6O2,C=COC(C)=O,2.052,Li
+Gamma-butyrolactone,C4H6O2,O=C1CCCO1,2.381,Li
+Gamma-valerolactone,C5H8O2,CC1CCC(=O)O1,2.438,Li
+Delta-valerolactone,C5H8O2,O=C1CCCCO1,2.502,Li
+Epsilon-caprolactone,C6H10O2,O=C1CCCCCO1,2.536,Li
+Gamma-hexanolactone,C6H10O2,CCCC1CC(=O)O1,2.454,Li
+Trimethyl phosphate,C3H9O4P,COP(=O)(OC)OC,2.79,Li
+Triethyl phosphate,C6H15O4P,CCOP(=O)(OCC)OCC,2.914,Li
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,2.481,Li
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,2.08,Li
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,2.232,Li
+"1,3-propanesultone",C3H6O3S,O=S1(=O)CCCO1,2.275,Li
+"1,4-butane sultone",C4H8O3S,O=S1(=O)CCCCO1,2.314,Li
+Dimethyl sulfoxide,C2H6OS,CS(C)=O,2.905,Li
+Succinic anhydride,C4H4O3,O=C1CCC(=O)O1,1.99,Li
+Cyclohexanone,C6H10O,O=C1CCCCC1,2.259,Li
+Caprolactone,C6H10O2,O=C1CCCCCO1,2.536,Li
+Propiolactone,C3H4O2,O=C1CCO1,2.162,Li
+Cyclopentanone,C5H8O,O=C1CCCC1,2.23,Li
+Diketene,C4H4O2,C=C1CC(=O)O1,2.023,Li
+Acetophenone,C8H8O,CC(=O)c1ccccc1,2.272,Li
+Guaiacol,C7H8O2,COc1ccccc1O,2.882,Li
+Benzaldehyde,C7H6O,O=Cc1ccccc1,2.177,Li
+2-methylcyclohexanone,C7H12O,CC1CCCCC1=O,2.293,Li
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,2.08,Li
+Diethylsulfate,C4H10O4S,CCOS(=O)(=O)OCC,2.335,Li
+"2,3-butanedione",C4H6O2,CC(=O)C(C)=O,1.768,Li
+Benzyl benzoate,C14H12O2,O=C(OCc1ccccc1)c1ccccc1,2.758,Li
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,1.625,Li
+Pentanal,C5H10O,CCCCC=O,1.992,Li
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,2.159,Li
+Acetone,C3H6O,CC(C)=O,2.19,Li
+Diethyl ether,C4H10O,CCOCC,2.031,Li
+Methyl methacrylate,C5H8O2,C=C(C)C(=O)OC,2.208,Li
+Chloroacetone,C3H5ClO,CC(=O)CCl,1.938,Li
+N-butyl acetate,C6H12O2,CCCCOC(C)=O,2.219,Li
+2-heptanone,C7H14O,CCCCCC(C)=O,2.188,Li
+4-heptanone,C7H14O,CCCC(=O)CCC,2.176,Li
+6-methyl-5-hepten-2-one,C8H14O,CC(=O)CCC=C(C)C,2.114,Li
+3-pentanone,C5H10O,CCC(=O)CC,2.143,Li
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,2.225,Li
+Methyl vinyl ketone,C5H8O,C=CC(C)=O,2.19,Li
+Methyl acrylate,C4H6O2,C=CC(=O)OC,2.195,Li
+Ethyl acrylate,C5H8O2,C=CC(=O)OCC,2.273,Li
+Butyl butyrate,C8H16O2,CCCCOC(=O)CCC,2.214,Li
+Butyl ethyl ketone,C8H16O,CCCCC(=O)CC,2.197,Li
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,2.23,Li
+Propylene carbonate,C4H6O3,CC1COC(=O)O1,1.789,Na
+Ethylene carbonate,C3H4O3,O=C1OCCO1,1.747,Na
+Vinylene carbonate,C3H2O3,O=c1occo1,1.61,Na
+Fluoroethylene carbonate,C3H3FO3,O=C1OCC(F)O1,1.569,Na
+Dimethyl carbonate,C3H6O3,COC(=O)OC,1.454,Na
+Diethyl carbonate,C5H10O3,CCOC(=O)OCC,1.492,Na
+Ethyl methyl carbonate,C4H8O3,CCOC(=O)OC,1.488,Na
+Furan,C4H4O,c1ccoc1,0.884,Na
+"2,5-dimethylfuran",C6H8O,Cc1ccc(C)o1,1.059,Na
+Tetrahydrofuran,C4H8O,C1CCOC1,1.454,Na
+2-methyltetrahydrofuran,C5H10O,CC1CCCO1,1.492,Na
+Tetrahydropyran,C5H10O,C1CCOCC1,1.411,Na
+"1,3-dioxolane",C3H6O2,C1COCO1,1.273,Na
+"1,4-dioxane",C4H8O2,C1COCCO1,1.25,Na
+Ethoxymethoxymethane,C5H12O3,CCOCOC,1.283,Na
+Ethyl acetate,C4H8O2,CCOC(C)=O,1.574,Na
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.585,Na
+Methyl propionate,C4H8O2,CCC(=O)OC,1.524,Na
+Ethyl propionate,C5H10O2,CCOC(=O)CC,1.571,Na
+Methyl formate,C2H4O2,COC=O,1.444,Na
+Ethyl butyrate,C6H12O2,CCCC(=O)OCC,1.542,Na
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,1.564,Na
+Vinyl acetate,C4H6O2,C=COC(C)=O,1.454,Na
+Gamma-butyrolactone,C4H6O2,O=C1CCCO1,1.777,Na
+Gamma-valerolactone,C5H8O2,CC1CCC(=O)O1,1.82,Na
+Delta-valerolactone,C5H8O2,O=C1CCCCO1,1.863,Na
+Epsilon-caprolactone,C6H10O2,O=C1CCCCCO1,1.9,Na
+Gamma-hexanolactone,C6H10O2,CCCC1CC(=O)O1,1.833,Na
+Trimethyl phosphate,C3H9O4P,COP(=O)(OC)OC,2.081,Na
+Triethyl phosphate,C6H15O4P,CCOP(=O)(OCC)OCC,2.177,Na
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,1.879,Na
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.527,Na
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,1.68,Na
+"1,3-propanesultone",C3H6O3S,O=S1(=O)CCCO1,1.721,Na
+"1,4-butane sultone",C4H8O3S,O=S1(=O)CCCCO1,1.752,Na
+Dimethyl sulfoxide,C2H6OS,CS(C)=O,2.183,Na
+Succinic anhydride,C4H4O3,O=C1CCC(=O)O1,1.45,Na
+Cyclohexanone,C6H10O,O=C1CCCCC1,1.654,Na
+Caprolactone,C6H10O2,O=C1CCCCCO1,1.9,Na
+Propiolactone,C3H4O2,O=C1CCO1,1.592,Na
+Cyclopentanone,C5H8O,O=C1CCCC1,1.632,Na
+Diketene,C4H4O2,C=C1CC(=O)O1,1.481,Na
+Acetophenone,C8H8O,CC(=O)c1ccccc1,1.635,Na
+Guaiacol,C7H8O2,COc1ccccc1O,2.077,Na
+Benzaldehyde,C7H6O,O=Cc1ccccc1,1.57,Na
+2-methylcyclohexanone,C7H12O,CC1CCCCC1=O,1.679,Na
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.527,Na
+Diethylsulfate,C4H10O4S,CCOS(=O)(=O)OCC,1.76,Na
+"2,3-butanedione",C4H6O2,CC(=O)C(C)=O,1.235,Na
+Benzyl benzoate,C14H12O2,O=C(OCc1ccccc1)c1ccccc1,2.139,Na
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,1.12,Na
+Pentanal,C5H10O,CCCCC=O,1.438,Na
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,1.54,Na
+Acetone,C3H6O,CC(C)=O,1.6,Na
+Diethyl ether,C4H10O,CCOCC,1.473,Na
+Methyl methacrylate,C5H8O2,C=C(C)C(=O)OC,1.583,Na
+Chloroacetone,C3H5ClO,CC(=O)CCl,1.399,Na
+N-butyl acetate,C6H12O2,CCCCOC(C)=O,1.589,Na
+2-heptanone,C7H14O,CCCCCC(C)=O,1.58,Na
+4-heptanone,C7H14O,CCCC(=O)CCC,1.553,Na
+6-methyl-5-hepten-2-one,C8H14O,CC(=O)CCC=C(C)C,1.504,Na
+3-pentanone,C5H10O,CCC(=O)CC,1.541,Na
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.587,Na
+Methyl vinyl ketone,C5H8O,C=CC(C)=O,1.58,Na
+Methyl acrylate,C4H6O2,C=CC(=O)OC,1.57,Na
+Ethyl acrylate,C5H8O2,C=CC(=O)OCC,1.632,Na
+Butyl butyrate,C8H16O2,CCCCOC(=O)CCC,1.578,Na
+Butyl ethyl ketone,C8H16O,CCCCC(=O)CC,1.582,Na
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,1.601,Na
+Propylene carbonate,C4H6O3,CC1COC(=O)O1,1.307,Rb
+Ethylene carbonate,C3H4O3,O=C1OCCO1,1.272,Rb
+Vinylene carbonate,C3H2O3,O=c1occo1,1.157,Rb
+Fluoroethylene carbonate,C3H3FO3,O=C1OCC(F)O1,1.129,Rb
+Dimethyl carbonate,C3H6O3,COC(=O)OC,0.968,Rb
+Diethyl carbonate,C5H10O3,CCOC(=O)OCC,1.01,Rb
+Ethyl methyl carbonate,C4H8O3,CCOC(=O)OC,1.006,Rb
+Furan,C4H4O,c1ccoc1,0.545,Rb
+"2,5-dimethylfuran",C6H8O,Cc1ccc(C)o1,0.649,Rb
+Tetrahydrofuran,C4H8O,C1CCOC1,0.978,Rb
+2-methyltetrahydrofuran,C5H10O,CC1CCCO1,1.007,Rb
+Tetrahydropyran,C5H10O,C1CCOCC1,0.94,Rb
+"1,3-dioxolane",C3H6O2,C1COCO1,0.836,Rb
+"1,4-dioxane",C4H8O2,C1COCCO1,0.801,Rb
+Ethoxymethoxymethane,C5H12O3,CCOCOC,0.809,Rb
+Ethyl acetate,C4H8O2,CCOC(C)=O,1.083,Rb
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.093,Rb
+Methyl propionate,C4H8O2,CCC(=O)OC,1.03,Rb
+Ethyl propionate,C5H10O2,CCOC(=O)CC,1.072,Rb
+Methyl formate,C2H4O2,COC=O,0.981,Rb
+Ethyl butyrate,C6H12O2,CCCC(=O)OCC,1.04,Rb
+Methyl isobutyrate,C5H10O2,COC(=O)C(C)C,1.063,Rb
+Vinyl acetate,C4H6O2,C=COC(C)=O,0.984,Rb
+Gamma-butyrolactone,C4H6O2,O=C1CCCO1,1.292,Rb
+Gamma-valerolactone,C5H8O2,CC1CCC(=O)O1,1.328,Rb
+Delta-valerolactone,C5H8O2,O=C1CCCCO1,1.351,Rb
+Epsilon-caprolactone,C6H10O2,O=C1CCCCCO1,1.389,Rb
+Gamma-hexanolactone,C6H10O2,CCCC1CC(=O)O1,1.333,Rb
+Trimethyl phosphate,C3H9O4P,COP(=O)(OC)OC,1.512,Rb
+Triethyl phosphate,C6H15O4P,CCOP(=O)(OCC)OCC,1.595,Rb
+Sulfolane,C4H8O2S,O=S1(=O)CCCC1,1.35,Rb
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.056,Rb
+Methyl benzenesulfonate,C7H8O3S,COS(=O)(=O)c1ccccc1,1.18,Rb
+"1,3-propanesultone",C3H6O3S,O=S1(=O)CCCO1,1.24,Rb
+"1,4-butane sultone",C4H8O3S,O=S1(=O)CCCCO1,1.281,Rb
+Dimethyl sulfoxide,C2H6OS,CS(C)=O,1.59,Rb
+Succinic anhydride,C4H4O3,O=C1CCC(=O)O1,1.025,Rb
+Cyclohexanone,C6H10O,O=C1CCCCC1,1.158,Rb
+Caprolactone,C6H10O2,O=C1CCCCCO1,1.389,Rb
+Propiolactone,C3H4O2,O=C1CCO1,1.14,Rb
+Cyclopentanone,C5H8O,O=C1CCCC1,1.144,Rb
+Diketene,C4H4O2,C=C1CC(=O)O1,1.049,Rb
+Acetophenone,C8H8O,CC(=O)c1ccccc1,1.131,Rb
+Guaiacol,C7H8O2,COc1ccccc1O,1.398,Rb
+Benzaldehyde,C7H6O,O=Cc1ccccc1,1.085,Rb
+2-methylcyclohexanone,C7H12O,CC1CCCCC1=O,1.178,Rb
+Methyl methanesulfonate,C2H6O3S,COS(C)(=O)=O,1.056,Rb
+Diethylsulfate,C4H10O4S,CCOS(=O)(=O)OCC,1.299,Rb
+"2,3-butanedione",C4H6O2,CC(=O)C(C)=O,0.807,Rb
+Benzyl benzoate,C14H12O2,O=C(OCc1ccccc1)c1ccccc1,1.591,Rb
+Diphenyl ether,C12H10O,c1ccc(Oc2ccccc2)cc1,0.738,Rb
+Pentanal,C5H10O,CCCCC=O,0.984,Rb
+2-Methoxyethyl acetate,C5H10O3,COCCOC(C)=O,1.04,Rb
+Acetone,C3H6O,CC(C)=O,1.117,Rb
+Diethyl ether,C4H10O,CCOCC,0.96,Rb
+Methyl methacrylate,C5H8O2,C=C(C)C(=O)OC,1.078,Rb
+Chloroacetone,C3H5ClO,CC(=O)CCl,0.964,Rb
+N-butyl acetate,C6H12O2,CCCCOC(C)=O,1.098,Rb
+2-heptanone,C7H14O,CCCCCC(C)=O,1.081,Rb
+4-heptanone,C7H14O,CCCC(=O)CCC,1.06,Rb
+6-methyl-5-hepten-2-one,C8H14O,CC(=O)CCC=C(C)C,1.015,Rb
+3-pentanone,C5H10O,CCC(=O)CC,1.055,Rb
+Isopropyl acetate,C5H10O2,CC(=O)OC(C)C,1.095,Rb
+Methyl vinyl ketone,C5H8O,C=CC(C)=O,1.084,Rb
+Methyl acrylate,C4H6O2,C=CC(=O)OC,1.069,Rb
+Ethyl acrylate,C5H8O2,C=CC(=O)OCC,1.134,Rb
+Butyl butyrate,C8H16O2,CCCCOC(=O)CCC,1.087,Rb
+Butyl ethyl ketone,C8H16O,CCCCC(=O)CC,1.089,Rb
+Isoamyl acetate,C7H14O2,CC(=O)OCCC(C)C,1.112,Rb
+"1,3-dioxolane",hahah,C1COCO1,0.413077428,Al
+"1,3-propane sultone",hahah,O=S1(=O)CCCO1,0.363113883,Al
+"1,4-butane sultone",hahah,O=S1(=O)CCCCO1,0.290256623,Al
+"1,4-dioxane",hahah,C1COCCO1,0.426592577,Al
+"2,3-butanedione",hahah,CC(=O)C(C)=O,0.695451664,Al
+"2,5-dimethyl furan",hahah,Cc1ccc(C)o1,0.425672467,Al
+2-heptanone,hahah,CCCCCC(C)=O,0.604131756,Al
+2-methyl tetrahydro furan,hahah,CC1CCCO1,0.405396336,Al
+2-methyl cyclohexanone,hahah,CC1CCCCC1=O,0.521616599,Al
+2-methoxy ethyl acetate,hahah,CCOC(=O)COC,0.509776244,Al
+3-pentanone,hahah,CCC(=O)CC,0.547265744,Al
+4-heptanone,hahah,CCCC(=O)CCC,0.50213658,Al
+6-methyl-5-hepten-2-one,hahah,CC(=O)CCC=C(C)C,0.522671774,Al
+acetone,hahah,CC(C)=O,0.579575063,Al
+acetophenone,hahah,CC(=O)c1ccccc1,0.789998954,Al
+butyl butyrate,hahah,CCCCOC(=O)CCC,0.461115773,Al
+butyl ethyl ketone,hahah,CCCCC(=O)CC,0.61683779,Al
+benzyl benzoate,hahah,O=C(OCc1ccccc1)c1ccccc1,0.53486448,Al
+benzaldehyde,hahah,O=Cc1ccccc1,0.834540608,Al
+caprolactone,hahah,O=C1CCCCCO1,0.496709056,Al
+chloro acetone,hahah,CC(=O)CCl,0.754229527,Al
+cyclohexanone,hahah,O=C1CCCCC1,0.562632911,Al
+cyclopentanone,hahah,O=C1CCCC1,0.599125282,Al
+diethyl carbonate,hahah,CCOC(=O)OCC,0.451308642,Al
+diethyl sulfate,hahah,CCOS(=O)(=O)OCC,0.380929801,Al
+diethyl ether,hahah,CCOCC,0.394016701,Al
+diketene,hahah,C=C1CC(=O)O1,0.505869958,Al
+dimethyl carbonate,hahah,COC(=O)OC,0.470561831,Al
+dimethyl sulfoxide,hahah,CS(C)=O,0.480666811,Al
+diphenyl ether,hahah,c1ccc(Oc2ccccc2)cc1,0.491172434,Al
+delta valerolactone,hahah,O=C1CCCCO1,0.50925915,Al
+ethyl acetate,hahah,CCOC(C)=O,0.437621325,Al
+ethyl butyrate,hahah,CCCC(=O)OCC,0.459281694,Al
+ethylene carbonate,hahah,O=C1OCCO1,0.411762373,Al
+ethylene methyl carbonate,hahah,CCOC(=O)OC,0.467601986,Al
+ethoxy methoxy methane,hahah,CCOCOC,0.482882106,Al
+ethyl propionate,hahah,CCOC(=O)CC,0.439198761,Al
+ethyl acrylate,hahah,C=CC(=O)OCC,0.540826641,Al
+fluro ethylene carbonate,hahah,O=C1OCCO1,0.635657719,Al
+furan,hahah,c1ccoc1,0.303817773,Al
+gamma butyrolactone,hahah,O=C1CCCO1,0.440920235,Al
+gamma hexanolactone,hahah,CCC1CCC(=O)O1,0.495537729,Al
+guaiacol,hahah,COc1ccccc1O,0.483536469,Al
+gamma valerolactone,hahah,CC1CCC(=O)O1,0.502662554,Al
+isopropyl acetate,hahah,CC(=O)OC(C)C,0.436855316,Al
+isoamyl acetate,hahah,CC(=O)OCCC(C)C,0.476592692,Al
+methyl benzenesulfonate,hahah,COS(=O)(=O)c1ccccc1,0.448277122,Al
+methyl acrylate,hahah,C=CC(=O)OC,0.678058258,Al
+methyl formate,hahah,COC=O,0.432873237,Al
+methyl isobutyrate,hahah,COC(=O)C(C)C,0.445256004,Al
+methyl methacrylate,hahah,C=C(C)C(=O)OC,0.623933026,Al
+methyl methane sulfonate,hahah,COS(C)(=O)=O,0.371964534,Al
+methyl propionate,hahah,CCC(=O)OC,0.420802138,Al
+methyl vinyl ketone,hahah,C=CC(C)=O,1.000957712,Al
+n-butyl acetate,hahah,CCCCOC(C)=O,0.458059655,Al
+propylene carbonate,hahah,CC1COC(=O)O1,0.312293644,Al
+pentanal,hahah,CCCCC=O,0.631378272,Al
+propiolactone,hahah,O=C1CCO1,0.44323823,Al
+succinic anhydride,hahah,O=C1CCC(=O)O1,0.493187393,Al
+sulfolane,hahah,O=S1(=O)CCCC1,0.3220529,Al
+triethyl phosphate,hahah,CCOP(=O)(OCC)OCC,0.433484795,Al
+tetrahydro furan,hahah,C1CCOC1,0.355150588,Al
+tetrahydro pyran,hahah,C1CCOCC1,0.394191259,Al
+trimethyl phosphate,hahah,COP(=O)(OC)OC,0.422695158,Al
+vinyl acetate,hahah,C=COC(C)=O,0.471146392,Al
+vinyl carbonate,hahah,O=c1occo1,0.458010442,Al
